@@ -50,8 +50,6 @@ jobs:
       axolotl-ref: ${{ matrix.ref }}
       phpstan-paths: src
       artifact-name: animated-wings-api-${{ matrix.label }}-${{ github.sha }}
-      retention-days: 14
-
   runtime-smoke:
     name: Smoke-test the plugin on Axolotl-PM 5.51.1
     needs: [test, build]
