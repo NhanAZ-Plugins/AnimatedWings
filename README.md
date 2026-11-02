@@ -6,7 +6,7 @@
 
 - Minimum Axolotl-PM API: `5.0.0`.
 - The plugin uses Axolotl-PM's built-in form API and does not require FormAPI.
-- The pinned CI matrix checks API 5.0.0 and 5.49.1 source revisions. This does not establish compatibility with every API 5.x release.
+- The pinned CI matrix checks API 5.0.0 and 5.51.1 source revisions. This does not establish compatibility with every API 5.x release.
 - The plugin requires PHP's GD extension to process player skin images.
 
 ## Player skin data
