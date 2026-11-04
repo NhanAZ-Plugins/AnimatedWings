@@ -1,6 +1,15 @@
 # animated-Wings
 
-`animated-Wings` is the historical `CustomWing` plugin. It offers bundled wing skins through an in-game menu and is maintained by NhanAZ.
+Custom wing skin menu for Axolotl-PM API 5, authored by NhanAZ and licensed under MIT
+
+[![CI](https://github.com/NhanAZ-Plugins/animated-Wings/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/animated-Wings/actions/workflows/build.yml)
+[![Latest release](https://img.shields.io/github/v/release/NhanAZ-Plugins/animated-Wings)](https://github.com/NhanAZ-Plugins/animated-Wings/releases/latest)
+[![License](https://img.shields.io/github/license/NhanAZ-Plugins/animated-Wings)](https://github.com/NhanAZ-Plugins/animated-Wings/blob/main/LICENSE)
+[![Discord](https://img.shields.io/discord/986553214889517088?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/j2X83ujT6c)
+
+## Overview
+
+This plugin targets the PocketMine-MP and Axolotl-PM API 5 ecosystem and is maintained under [NhanAZ-Plugins](https://github.com/NhanAZ-Plugins).
 
 ## Compatibility
 
@@ -18,5 +27,3 @@ These files still contain player appearance data while present. Protect the plug
 ## Bundled asset status
 
 The bundled wing PNG and geometry assets are authored by NhanAZ and distributed under the MIT License. The GitHub Actions workflow checks PHPStan, API 5 PHAR builds, artifact contents and plugin startup.
-
-For questions about the NhanAZ ecosystem, use [NhanAZ Discord](https://discord.gg/j2X83ujT6c).
