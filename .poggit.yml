@@ -1,9 +1,9 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/LyrexGit/animated-Wings
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NhanAZ-Plugins/AnimatedWings
 # Keep automatic PHAR publication disabled until bundled asset rights are verified.
 build-by-default: false
 branches:
 - main
 projects:
-  animated-Wings:
+  AnimatedWings:
     path: ""
 ...
