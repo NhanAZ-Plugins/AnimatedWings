@@ -1,10 +1,10 @@
-# animated-Wings
+# AnimatedWings
 
 Custom wing skin menu for Axolotl-PM API 5, authored by NhanAZ and licensed under MIT
 
-[![CI](https://github.com/NhanAZ-Plugins/animated-Wings/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/animated-Wings/actions/workflows/build.yml)
-[![Latest release](https://img.shields.io/github/v/release/NhanAZ-Plugins/animated-Wings)](https://github.com/NhanAZ-Plugins/animated-Wings/releases/latest)
-[![License](https://img.shields.io/github/license/NhanAZ-Plugins/animated-Wings)](https://github.com/NhanAZ-Plugins/animated-Wings/blob/main/LICENSE)
+[![CI](https://github.com/NhanAZ-Plugins/AnimatedWings/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/AnimatedWings/actions/workflows/build.yml)
+[![Latest release](https://img.shields.io/github/v/release/NhanAZ-Plugins/AnimatedWings)](https://github.com/NhanAZ-Plugins/AnimatedWings/releases/latest)
+[![License](https://img.shields.io/github/license/NhanAZ-Plugins/AnimatedWings)](https://github.com/NhanAZ-Plugins/AnimatedWings/blob/main/LICENSE)
 [![Discord](https://img.shields.io/discord/986553214889517088?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/j2X83ujT6c)
 
 
